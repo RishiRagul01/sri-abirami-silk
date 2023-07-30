@@ -1,0 +1,21 @@
+.bi{
+    border-radius: 50%;
+}
+.container-fluid{
+    color: white;
+    filter: drop-shadow(0 0 10px black);
+}
+.weaving{
+    border-radius: 15%;
+    filter: drop-shadow(0 0 10px black);
+}
+header{
+    filter: drop-shadow(0 0 10px black);
+}
+.hero2{
+    filter: drop-shadow(0 0 10px black);
+}
+.svg{
+    border-radius: 25%;
+    padding: 5px;
+}
